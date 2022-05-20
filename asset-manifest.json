@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BurgerCybersoft/static/css/main.a214812e.css",
+    "main.js": "/BurgerCybersoft/static/js/main.680b4748.js",
+    "static/js/787.0c9bcd41.chunk.js": "/BurgerCybersoft/static/js/787.0c9bcd41.chunk.js",
+    "index.html": "/BurgerCybersoft/index.html",
+    "main.a214812e.css.map": "/BurgerCybersoft/static/css/main.a214812e.css.map",
+    "main.680b4748.js.map": "/BurgerCybersoft/static/js/main.680b4748.js.map",
+    "787.0c9bcd41.chunk.js.map": "/BurgerCybersoft/static/js/787.0c9bcd41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a214812e.css",
+    "static/js/main.680b4748.js"
+  ]
+}
